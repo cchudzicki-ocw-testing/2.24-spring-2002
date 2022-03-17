@@ -9,7 +9,7 @@ title: Swan Sample 5
 uid: 380138c9-015f-4d94-51fe-1f99de28540a
 ---
 
-{{< resource f015eecf-71f2-2345-ce11-20dcc4473e46 "Pitch RAOs with foil positioned at x=50. U=45 knots and AR=5." >}}
+{{< resource "f015eecf-71f2-2345-ce11-20dcc4473e46" >}}
 
 Output graph produced using MATLAB® Software.
 

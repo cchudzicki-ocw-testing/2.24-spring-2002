@@ -9,7 +9,7 @@ title: Swan Sample 11
 uid: 2cb0ded4-5588-71c3-9ecf-7898890ac2ec
 ---
 
-{{< resource 676de80b-c122-8209-b3c0-42330632b2b7 "Catamaran, s/L=0.4, 50 knots, 7500 ton, loa = 100m, B/T=2 Wake pattern in calm water. " >}}
+{{< resource "676de80b-c122-8209-b3c0-42330632b2b7" >}}
 
 Output graph produced using MATLAB® Software.
 

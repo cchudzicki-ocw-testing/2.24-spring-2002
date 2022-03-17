@@ -9,7 +9,7 @@ title: Swan Sample 1
 uid: 12ecd9f9-2439-4a65-d777-ee88320c6065
 ---
 
-{{< resource 02b7c5f0-19aa-843a-5ced-dcaa7967350b "Spatial discretization of vessel and free surface" >}}
+{{< resource "02b7c5f0-19aa-843a-5ced-dcaa7967350b" >}}
 
 Output graph produced using MATLAB® Software.
 

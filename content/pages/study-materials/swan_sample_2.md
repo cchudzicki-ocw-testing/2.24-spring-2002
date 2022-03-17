@@ -9,7 +9,7 @@ title: Swan Sample 2
 uid: d8436d00-5494-6057-d374-ec58bf310f4e
 ---
 
-{{< resource f113628e-b3b0-d504-c78c-99ce8ea794c1 "Kelvin wave pattern with vessel speed 40 knots." >}}
+{{< resource "f113628e-b3b0-d504-c78c-99ce8ea794c1" >}}
 
 Output graph produced using MATLAB® Software.
 
